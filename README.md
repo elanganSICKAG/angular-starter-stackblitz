@@ -1,3 +1,3 @@
-# angular-starter-stackblitz
+# Angular Starter Stackblitz
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/elanganSICKAG/angular-starter-stackblitz)
+Angular starter project in Stackblitz. Use this instead of the default Stackblitz starter for a traditional project structure instead of standalone components.
